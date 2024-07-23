@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaduMirands
-- 👀 I’m interested in learning data science and AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in mastering
+- 🌱 I’m currently learning JavaScript, Typescript and React
 - 📫 How to reach me @kadumirands@gmail.com
 
 <!---

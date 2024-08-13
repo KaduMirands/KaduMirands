@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaduMirands
-- 👀 I’m interested in mastering Web programing and C++
+- 👀 I’m interested in mastering Web programing, C++ and Rust
 - 🌱 I’m currently learning JavaScript, Typescript and React
 - 📫 How to reach me @kadumirands@gmail.com
 

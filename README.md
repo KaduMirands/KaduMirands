@@ -1,3 +1,4 @@
+- 🎂 Sorry, the cake is a lie
 - 👋 Hi, I’m @KaduMirands
 - 👀 I’m interested in mastering Web programing, C++ and Rust
 - 🌱 I’m currently learning JavaScript, Typescript and React

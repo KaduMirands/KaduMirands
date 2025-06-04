@@ -1,0 +1,47 @@
+#include <stdio.h>
+#include <math.h>
+
+struct Produto {
+    int id;
+    int quantidade;
+    
+    
+};
+
+void adicionarEstoque(struct Produto p, int adicionar) {
+    p.quantidade += adicionar;
+    return p;
+}
+
+int main() {
+    struct Produto p1 = {101, 20} ;
+    p1 = adicionarEstoque(p1, 10);
+    printf("Quantidade atual: %d\n", p1.quantidade);
+    
+    return 0;
+}
+
+/*
+#include <stdio.h>
+
+struct Produto {
+    int id;
+    int quantidade;
+};
+struct Produto adicionarEstoque(struct Produto p, int adiciona) {
+    p.quantidade += adiciona;
+    return p;
+}
+int main() {
+    struct Produto p1;
+    int adiciona;
+    printf("Digite o ID do produto: ");
+    scanf("%d", &p1.id);
+   printf("Digite a quantidade atual do produto: ");
+    scanf("%d", &p1.quantidade);
+   printf("Digite a quantidade para adicionar no produto: ");
+    scanf("%d", &adiciona);
+    p1 = adicionarEstoque(p1, adiciona);
+    printf("Quantidade atual no estoque: %d\n", p1.quantidade);
+    return 0;
+}*/
